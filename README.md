@@ -4,7 +4,7 @@ The objective of this test is to measure how well you know PHP language and best
 
 ## 1.	Submission rules :
 
-When you have completed your exercise, open a Pull Request with your code and an INSTRUCTIONS.md file explaining how to run your code work (compose install, artisan ...). Your instructions must be clear and enable anyone to run your project without errors or warnings.
+When you have completed your exercise, fork this repository and open a Pull Request (the Pull Request is mandatory so that we are notified of your submission) with your code and an INSTRUCTIONS.md file explaining how to run your code work (compose install, artisan ...). Your instructions must be clear and enable anyone to run your project without errors or warnings.
 
 -	You can provide a docker file, a Vagrant box or simply instructions for MAMP.
 -	Your code should include comments if necessary.
