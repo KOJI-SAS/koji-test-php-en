@@ -16,7 +16,7 @@ When you have completed your exercise, open a Pull Request with your code and an
 Your submission must include two pages:
 
 The first one a simple input field allowing you to enter any number from 0 to 99 and a submission button.
-The second one, a grid of 1000x1000 <div> of 1px by 1px where the previously entered number must be displayed.
+The second one, a grid of 1000x1000 `<div>` of 1px by 1px where the previously entered number must be displayed.
 
 ## 3.	Help and explanations :
 
